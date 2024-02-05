@@ -1,11 +1,6 @@
-# Project Pipeline
-The following code classifies images of lung tumors from the Kaggle Data Science Bowl 2017 data set. The datasets are initially balanced using a General Adversarial Neural Network. 
+# "Machine Learning Methods for Lung Tumour Diagnosis"
+This GitHub repository contains the all the code, models, figures and relevant material used in my project: "Machine Learning Methods for Lung Tumour Diagnosis".* 
 
-**Part 1** \\
-Random Forests, Decision Tree and K-Nearest Neighbors are initially compared to one another. The best model is chosen and evaluated furter. The code for Part 1 is in-house software and therefore not publically availible. 
+# Contributor: Carl Viggo Nilsson Gravenhorst-Lövenstierne. carlviggo@icloud.com
 
-**Part 2 (see DeepLearningModel.ipynb)** \\
-Dataset is balanced using GAN technology. A pretrained InceptionV3 and a VGG16 are fine-tuned and evaluated. 
-
-Contributor: Carl Viggo Nilsson Gravenhorst-Lövenstierne. carlviggo@icloud.com
-*The attached images are examples of graphs from the project. 
+*The code used for creating the base of the random forest model (i.e, part 1) is in-house software developed at Stockholm University and can be found in the following repository: https://github.com/Astarakee/Radiomics_pipeline.
