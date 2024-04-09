@@ -40,3 +40,4 @@ class simple_alexnet(nn.Module):
         
     def forward(self, x):
         return self.alexnet(x)
+    
